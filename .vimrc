@@ -1,4 +1,4 @@
-nnoremap § {
-nnoremap ‘ }
-nnoremap æ [
-nnoremap ¶ ]
+nnoremap æ {
+nnoremap ¶ }
+nnoremap § [
+nnoremap ‘ ]
